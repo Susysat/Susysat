@@ -10,7 +10,7 @@
   <tr>
     <td colspan="2" align="center">
       <details open><summary>Indepth analysis </summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-      <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
+      <details open><summary>Recently used </summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
      
   </tr>
 
